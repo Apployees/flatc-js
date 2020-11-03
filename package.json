@@ -23,7 +23,7 @@
     "rimraf": "^2.6.2"
   },
   "flatc": {
-    "version": "1.9.0",
+    "version": "1.12.0",
     "src_url": "https://github.com/google/flatbuffers/archive/v${version}.tar.gz",
     "win32_bin_url": "https://github.com/google/flatbuffers/releases/download/v${version}/flatc_windows_exe.zip"
   }
